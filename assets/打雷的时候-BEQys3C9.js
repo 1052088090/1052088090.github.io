@@ -1,0 +1,1 @@
+var e=`/assets/%E6%89%93%E9%9B%B7%E7%9A%84%E6%97%B6%E5%80%99-B83b2UlL.wav`;export{e as default};

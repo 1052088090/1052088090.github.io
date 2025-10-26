@@ -1,0 +1,1 @@
+var e=`/assets/ebf054c7gy1hr6h4xpru3j22y42y4hdt-D8rVaaZu.jpg`;export{e as default};
