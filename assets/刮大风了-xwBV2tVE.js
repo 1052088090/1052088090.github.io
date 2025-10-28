@@ -1,0 +1,1 @@
+var e=``+new URL(`刮大风了-Bu2nxeT9.wav`,import.meta.url).href;export{e as default};

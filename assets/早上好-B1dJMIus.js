@@ -1,0 +1,1 @@
+var e=``+new URL(`早上好-BT6ifTb4.wav`,import.meta.url).href;export{e as default};

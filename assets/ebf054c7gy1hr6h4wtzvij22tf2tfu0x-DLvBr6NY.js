@@ -1,0 +1,1 @@
+var e=``+new URL(`ebf054c7gy1hr6h4wtzvij22tf2tfu0x-CAemaSqL.jpg`,import.meta.url).href;export{e as default};

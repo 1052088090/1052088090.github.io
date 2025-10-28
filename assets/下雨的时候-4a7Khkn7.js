@@ -1,0 +1,1 @@
+var e=``+new URL(`下雨的时候-B8gz4Mwe.wav`,import.meta.url).href;export{e as default};

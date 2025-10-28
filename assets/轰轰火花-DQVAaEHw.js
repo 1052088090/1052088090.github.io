@@ -1,0 +1,1 @@
+var e=``+new URL(`轰轰火花-DllD6j9e.mp3`,import.meta.url).href;export{e as default};

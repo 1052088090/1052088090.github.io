@@ -1,0 +1,1 @@
+var e=``+new URL(`闲聊·冒险-DZUOwfXu.wav`,import.meta.url).href;export{e as default};

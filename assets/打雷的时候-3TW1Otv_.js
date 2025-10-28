@@ -1,0 +1,1 @@
+var e=``+new URL(`打雷的时候-B83b2UlL.wav`,import.meta.url).href;export{e as default};

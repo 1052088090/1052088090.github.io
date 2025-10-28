@@ -1,1 +1,0 @@
-var e=`/assets/2-Bmfm2COB.jpg`;export{e as default};
