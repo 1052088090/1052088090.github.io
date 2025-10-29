@@ -1,0 +1,1 @@
+var e=``+new URL(`早上好-DlHmM3hV.mp3`,import.meta.url).href;export{e as default};

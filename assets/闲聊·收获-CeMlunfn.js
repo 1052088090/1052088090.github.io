@@ -1,0 +1,1 @@
+var e=``+new URL(`闲聊·收获-T-w2xyOi.mp3`,import.meta.url).href;export{e as default};

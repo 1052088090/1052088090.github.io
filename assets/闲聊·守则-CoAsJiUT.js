@@ -1,1 +1,0 @@
-var e=``+new URL(`闲聊·守则-DHUH-c1u.wav`,import.meta.url).href;export{e as default};

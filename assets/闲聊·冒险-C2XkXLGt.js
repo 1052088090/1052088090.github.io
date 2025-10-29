@@ -1,0 +1,1 @@
+var e=``+new URL(`闲聊·冒险-BpFDm2-W.mp3`,import.meta.url).href;export{e as default};

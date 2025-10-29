@@ -1,0 +1,1 @@
+var e=``+new URL(`刮大风了-Bj5AJmsK.mp3`,import.meta.url).href;export{e as default};
